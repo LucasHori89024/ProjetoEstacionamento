@@ -1,0 +1,23 @@
+Recursos: administrativos, operacionais, de caixa e de suporte
+
+Cadastro de perfis e usuários.
+Configuração de preços.
+Cadastro de convênios e credenciados.
+Relatório financeiros.
+Relatório de tickets no pátio.
+Relatórios estatísticos de movimento e permanência.
+
+Integração com hardware conectado na mesma rede com status, monitoramento e atendimento à requisições.
+
+Pagamentos em geral
+Entrada de receita.
+Saída por despesa.
+Entrada/saída assistida.
+Ticket de perda ou contingente.
+Fechamento de caixa.
+Visualização de veículos no pátio e impressão do movimento diário
+
+Recebimento de notificação dos equipamentos em caso de falha de hardware.
+Recebimento de pedido de ajuda emitido pelo cliente no totem.
+Abertura remota de cancela.
+Contato por voz com o cliente no totem.
