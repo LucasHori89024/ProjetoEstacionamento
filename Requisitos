@@ -1,1 +1,12 @@
+Requisitos (agrupados por problema)
 
+superlotação
+	- anotar qtde de vagas e tamanho médio dos carros que frequentam o estacionamento para
+	mapear as vagas dos estacionamentos com informações sobre cada vaga (ocupado/deficiente/livre)
+  - disponibilizar uma interface gráfica onde é possível selecionar uma vaga no mapa
+
+segurança
+	- cancelas com sem parar
+	- opção de pagamento via totem
+	- pagamento antecipado via ticket
+	- alerta para os funcionários quando o tempo do cliente acabar
