@@ -1,0 +1,9 @@
+1) Qual a situação atual do estacionamento (atuais problemas o que podemos melhorar)
+2) Quais necessidades que o cliente precisa.
+3) Como funciona o sistema de pagamento atual.
+4) Como é feito o levantamento do faturamento do mês.
+5) Perguntar como é feito o controle de entrada e saída de carros.
+6) Como é feita as reservas de vagas.
+
+Para cada uma das perguntas acima, perguntar se o cliente
+está satisfeito com o sistema atual e oferecer uma solução.
