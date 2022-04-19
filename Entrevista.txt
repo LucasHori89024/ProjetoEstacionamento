@@ -7,3 +7,7 @@
 
 Para cada uma das perguntas acima, perguntar se o cliente
 está satisfeito com o sistema atual e oferecer uma solução.
+
+1) App - Monitoramento de vagas 24 horas.
+2) Vagas com sensores.
+3) Cameras OCR para identificar placa do carro.
