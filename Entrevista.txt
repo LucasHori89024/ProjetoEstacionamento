@@ -1,3 +1,5 @@
+Perguntas
+
 1) Qual a situação atual do estacionamento (atuais problemas o que podemos melhorar)
 2) Quais necessidades que o cliente precisa.
 3) Como funciona o sistema de pagamento atual.
@@ -7,3 +9,10 @@
 
 Para cada uma das perguntas acima, perguntar se o cliente
 está satisfeito com o sistema atual e oferecer uma solução.
+
+
+Ideias do vídeo
+
+1) App - Monitoramento de vagas 24 horas.
+2) Vagas com sensores.
+3) Cameras OCR para identificar placa do carro.
